@@ -10,4 +10,4 @@ Clint Campbell's consulting company. Perception, computer vision, XR (AR/VR) and
 
 Client work and product code are private.
 
-📅 Available from November 2026 for perception, computer vision, XR or edge ML work. See [Clint's profile](https://github.com/XRMech) or [LinkedIn](https://www.linkedin.com/in/clintjcampbell).
+Available from November 2026 for perception, computer vision, XR or edge ML work. See [Clint's profile](https://github.com/XRMech) or [LinkedIn](https://www.linkedin.com/in/clintjcampbell).
